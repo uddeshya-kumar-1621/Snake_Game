@@ -1,9 +1,10 @@
-📌 Project Overview
+**📌 Project Overview**
 This is a fully-featured Snake Game built using Python's turtle module — no external dependencies required. The project was developed as a complete software solution with a clear separation between frontend (visuals) and backend (game logic), demonstrating clean code structure, OOP principles, and thoughtful UX design.
 The game features a proper start screen, live in-game HUD, game over state, and a high score that persists between sessions — so the player never loses their best run.
 
-🗂️ Repository Structure
-Snake-Game/
+**🗂️ Repository Structure**
+**Snake-Game/**
+
 │
 ├── Golden Response/
 │   ├── snake_game.py          # Complete game implementation
